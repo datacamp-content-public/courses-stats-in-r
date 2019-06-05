@@ -1,4 +1,7 @@
 title: Stats in R
-description: 'Learn how to use common R statistical analysis functions. '
+description: >-
+  Learn how to use common R statistical analysis functions. This course assumes
+  that you already know how to use R syntax, even if you are not familiar with
+  specific statistical function.
 programming_language: r
 from: 'r-base-prod:v1.0.2'
