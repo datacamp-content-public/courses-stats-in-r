@@ -1,5 +1,4 @@
 title: Stats in R
-description: Course description goes here.
+description: 'Learn how to use common R statistical analysis functions. '
 programming_language: r
-from: "r-base-prod:v1.0.2"
-#from: "tidyverse-base-prod:v1.0.2"
+from: 'r-base-prod:v1.0.2'
