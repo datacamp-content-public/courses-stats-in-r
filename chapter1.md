@@ -4,7 +4,7 @@ description: 'Chapter description goes here.'
 free_preview: true
 ---
 
-## Insert exercise title here
+## First Get the Data
 
 ```yaml
 type: VideoExercise
