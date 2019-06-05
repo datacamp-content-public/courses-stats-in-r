@@ -1,4 +1,3 @@
-# Use this file to install Linux software packages into the course image.
 # R packages should be installed from requirements.R
 # DataCamp runs Ubuntu Xenial. There is a list of available packages at 
 # https://packages.ubuntu.com
