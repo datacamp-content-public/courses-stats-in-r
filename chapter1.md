@@ -4,43 +4,13 @@ description: 'Chapter description goes here.'
 free_preview: true
 ---
 
-## Example coding exercise
+## Insert exercise title here
 
 ```yaml
-type: NormalExercise
-key: 2bafef99a3
-lang: r
-xp: 100
-skills: 1
+type: VideoExercise
+key: 2b1484967f
+xp: 50
 ```
 
-First thing: figure out where you should be typing. Then type `5 + 7`. Don't type the period. Press enter.
-
-`@instructions`
-Find the command line. It is a ">" followed by blank nothingness.
-
-`@hint`
-
-
-`@pre_exercise_code`
-```{r}
-5 + 7
-```
-
-`@sample_code`
-```{r}
-5 + 7
-```
-
-`@solution`
-```{r}
-12
-```
-
-`@sct`
-```{r}
-# Example SCT
-ex() %>% check_correct(
-  check_equal(5 + 7)
-)
-```
+`@projector_key`
+2000fa323f917ef143bd0ff6fe068ca0
